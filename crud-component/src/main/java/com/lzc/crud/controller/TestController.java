@@ -5,5 +5,6 @@ public class TestController {
         System.out.println("first version");
         System.out.println("Second version");
         System.out.println("hot-fix commit");
+        System.out.println("hot-fix change");
     }
 }
