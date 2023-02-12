@@ -6,5 +6,7 @@ public class TestController {
         System.out.println("Second version");
         System.out.println("master change");
         System.out.println("hot-fix change");
+        System.out.println("push test");
+
     }
 }
